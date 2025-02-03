@@ -1,0 +1,1 @@
+This repository contains a collection of Python programs that I have practiced and developed to enhance my skills in programming. It includes a variety of problems, algorithms, and solutions implemented in Python. 
